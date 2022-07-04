@@ -1,3 +1,6 @@
 public class main {
-    system.out.print("fdsafasda")
+    public static void main(String[] args){
+        System.out.print("init slang word");
+    }
+
 }
