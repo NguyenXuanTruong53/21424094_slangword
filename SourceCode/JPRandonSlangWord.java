@@ -13,7 +13,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPRandonSlangWord extends javax.swing.JPanel {
 

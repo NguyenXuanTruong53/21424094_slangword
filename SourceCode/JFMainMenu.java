@@ -29,7 +29,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JFMainMenu extends javax.swing.JFrame {
 

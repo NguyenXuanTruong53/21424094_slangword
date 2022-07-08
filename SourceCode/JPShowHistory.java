@@ -13,7 +13,7 @@ import SourceCode.JFMainMenu;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPShowHistory extends javax.swing.JPanel {
 

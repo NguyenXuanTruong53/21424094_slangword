@@ -16,7 +16,7 @@ import static javax.swing.JOptionPane.showMessageDialog;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPEditSlangWord extends javax.swing.JPanel {
 

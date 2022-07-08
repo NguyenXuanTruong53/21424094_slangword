@@ -13,7 +13,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPSearchSlangWord extends javax.swing.JPanel {
 

@@ -17,7 +17,7 @@ import static javax.swing.JOptionPane.showMessageDialog;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPDeleteSlangWord extends javax.swing.JPanel {
 

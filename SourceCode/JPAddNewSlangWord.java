@@ -19,7 +19,7 @@ import static javax.swing.JOptionPane.showMessageDialog;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPAddNewSlangWord extends javax.swing.JPanel {
 

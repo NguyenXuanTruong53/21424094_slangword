@@ -15,7 +15,7 @@ import static javax.swing.JOptionPane.showMessageDialog;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPPuzzleDefenition extends javax.swing.JPanel {
 

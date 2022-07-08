@@ -19,7 +19,7 @@ import javax.swing.JRadioButton;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPPuzzleSlangWord extends javax.swing.JPanel {
 

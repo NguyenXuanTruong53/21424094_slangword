@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="21424094_slangword:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fa86b6c6-6973-4be9-ad50-baf549b0ba33" name="Changes" comment="- Thêm chức năng hiển thị lịch sử Slang word">
-      <change afterPath="$PROJECT_DIR$/SourceCode/JPShowHistory.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/JPShowHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/21424094_slangword_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DanhGia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DanhGia.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JFMainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JFMainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPAddNewSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPAddNewSlangWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPDeleteSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPDeleteSlangWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPEditSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPEditSlangWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPPuzzleDefenition.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPPuzzleDefenition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPPuzzleSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPPuzzleSlangWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPRandonSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPRandonSlangWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPSearchDefenition.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPSearchDefenition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPSearchSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPSearchSlangWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/JPShowHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPShowHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/slang.txt" beforeDir="false" afterPath="$PROJECT_DIR$/slang.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -22,14 +45,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/truong/Desktop/21424094_slangword&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ADMIN/21424094_slangword/originalSlang.txt",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="JFMainMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SourceCode.JFMainMenu" />

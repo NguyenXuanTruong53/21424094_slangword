@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author ngoti
+ * @author truongnx
  */
 public class JPSearchDefenition extends javax.swing.JPanel {
 
