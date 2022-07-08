@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa86b6c6-6973-4be9-ad50-baf549b0ba33" name="Changes" comment="- Thêm chức năng random slang word">
+    <list default="true" id="fa86b6c6-6973-4be9-ad50-baf549b0ba33" name="Changes" comment="- Thêm chức năng hiển thị lịch sử Slang word">
+      <change afterPath="$PROJECT_DIR$/SourceCode/JPShowHistory.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCode/JPShowHistory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,14 +22,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/truong/Desktop/21424094_slangword"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/truong/Desktop/21424094_slangword&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="JFMainMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SourceCode.JFMainMenu" />
@@ -57,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657159528272</updated>
       <workItem from="1657159529884" duration="4360000" />
+      <workItem from="1657245720224" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="- Thêm chức năng xóa slang word">
       <created>1657159977396</created>
@@ -86,7 +89,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657183309768</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- Thêm chức năng tìm kiếm Defenition">
+      <created>1657245777005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657245777005</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- Thêm chức năng tìm kiếm Slang word">
+      <created>1657260833227</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657260833227</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- Thêm chức năng hiển thị lịch sử Slang word">
+      <created>1657268531821</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657268531821</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +132,9 @@
     <MESSAGE value="- Thêm chức năng chỉnh sửa slang word" />
     <MESSAGE value="- Thêm chức năng đố vui slang word" />
     <MESSAGE value="- Thêm chức năng random slang word" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Thêm chức năng random slang word" />
+    <MESSAGE value="- Thêm chức năng tìm kiếm Defenition" />
+    <MESSAGE value="- Thêm chức năng tìm kiếm Slang word" />
+    <MESSAGE value="- Thêm chức năng hiển thị lịch sử Slang word" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Thêm chức năng hiển thị lịch sử Slang word" />
   </component>
 </project>
