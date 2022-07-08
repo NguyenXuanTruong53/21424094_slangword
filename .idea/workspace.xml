@@ -6,26 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa86b6c6-6973-4be9-ad50-baf549b0ba33" name="Changes" comment="- Thêm chức năng hiển thị lịch sử Slang word">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/21424094_slangword_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DanhGia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DanhGia.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JFMainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JFMainMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPAddNewSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPAddNewSlangWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPDeleteSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPDeleteSlangWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPEditSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPEditSlangWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPPuzzleDefenition.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPPuzzleDefenition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPPuzzleSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPPuzzleSlangWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPRandonSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPRandonSlangWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPSearchDefenition.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPSearchDefenition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPSearchSlangWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPSearchSlangWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/JPShowHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/JPShowHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slang.txt" beforeDir="false" afterPath="$PROJECT_DIR$/slang.txt" afterDir="false" />
-    </list>
+    <list default="true" id="fa86b6c6-6973-4be9-ad50-baf549b0ba33" name="Changes" comment="- add file danhgia" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657268531821</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- add file jar">
+      <created>1657301738109</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657301738109</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- add file danhgia">
+      <created>1657301780518</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657301780518</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +157,8 @@
     <MESSAGE value="- Thêm chức năng tìm kiếm Defenition" />
     <MESSAGE value="- Thêm chức năng tìm kiếm Slang word" />
     <MESSAGE value="- Thêm chức năng hiển thị lịch sử Slang word" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Thêm chức năng hiển thị lịch sử Slang word" />
+    <MESSAGE value="- add file jar" />
+    <MESSAGE value="- add file danhgia" />
+    <option name="LAST_COMMIT_MESSAGE" value="- add file danhgia" />
   </component>
 </project>
